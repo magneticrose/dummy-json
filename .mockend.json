@@ -1,4 +1,4 @@
-{ result: [{"row":1,"country_region_code":"BR","country_region":"Brazil","region":null,"place_id":"2e26094281e668e5940b4030c7c5205d","date":"2021-01-02","symptom_abdominal_obesityi":1.79},
+{ "result": [{"row":1,"country_region_code":"BR","country_region":"Brazil","region":null,"place_id":"2e26094281e668e5940b4030c7c5205d","date":"2021-01-02","symptom_abdominal_obesityi":1.79},
 {"row":2,"country_region_code":"VE","country_region":"Venezuela","region":null,"place_id":"b8a158ccedb0f3081589a8f07e8de084","date":"2020-02-11","symptom_abdominal_obesityi":3.41},
 {"row":3,"country_region_code":"BR","country_region":"Brazil","region":null,"place_id":"c85c60de278420319b62bf0b649ac1b6","date":"2021-04-15","symptom_abdominal_obesityi":7.68},
 {"row":4,"country_region_code":"PH","country_region":"Philippines","region":null,"place_id":"800cfb17d38f2046a66329703db3c38a","date":"2021-01-05","symptom_abdominal_obesityi":2.76},
